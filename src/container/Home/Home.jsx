@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../../assets/images/HeroImage.jpg";
+import HeroImage from "../../assets/images/heroImage.jpg";
 import Input from "../../components/Input/Input";
 import "./Home.scss";
 
